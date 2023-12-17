@@ -52,7 +52,7 @@
 
 <details>
   <summary>
-  <strong>​✒️<Click here to see the snapshot of Dashboard </strong>  
+  <strong>​✒️Click here to see the snapshot of Dashboard </strong>  
   </summary>
   <p align='center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q5.PNG' />
