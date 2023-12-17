@@ -10,7 +10,7 @@
 
 <details>
   <summary>
-    Click here to see : The Distibution of Budget by Job Category
+    <strong>Click here to see :</strong> The Distibution of Budget by Job Category
   </summary>
   <p align=''center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q1.PNG' />
@@ -19,7 +19,7 @@
 
 <details>
   <summary>
-    Click here to see : The Distribution of Budget by Countries
+  <strong>Click here to see :</strong> The Distribution of Budget by Countries
   </summary>
   <p align='center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q2.PNG' />
