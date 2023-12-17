@@ -22,6 +22,7 @@
     Click here to see : The Distribution of Budget by Countries
   </summary>
   <p align='center'>
+    <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q2.PNG' />
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q2.1.PNG' />
   </p>
 </details>
