@@ -33,7 +33,7 @@
 
 <details>
   <summary>
-  <strong>​✒️<Click here to see :</strong> The Distribution of Jobs by Experience level
+  <strong>​✒️<Click here to see :</strong> Distribution of Jobs by Experience level
   </summary>
   <p align='center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q3.PNG' />
@@ -42,7 +42,7 @@
 
 <details>
   <summary>
-  <strong>​✒️<Click here to see :</strong> The Distribution of Jobs by Experience level
+  <strong>​✒️<Click here to see :</strong> Distribution of Jobs by Month
   </summary>
   <p align='center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q4.PNG' />
