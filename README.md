@@ -5,7 +5,7 @@
 </p>
 
 ##### - This project employs advance Excel techniques, including Pivot tables, Pivot charts, and Power Query, for comprehensive data analysis.
-##### - The dataset, sourced from PeoplePerHowr, a freelance marketplace, encompasses diverse details about freelance projects - project descriptions, budgets, project category and more.
+##### - The dataset, sourced from PeoplePerHour, a freelance marketplace, encompasses diverse details about freelance projects - project descriptions, budgets, project category and more.
 
 ### Primary Objectives are :
     - Connection and Data Loading: Established a connection to the dataset through Power Query, enabling the execution of crucial transformations. This process seamlessly transferred the refined data into a new worksheet for further analysis and exploration.
@@ -14,7 +14,7 @@
 
 <details>
   <summary>
-    <strong>Click here to see :</strong> The Distibution of Budget by Job Category
+​✒️<strong>Click here to see :</strong> The Distibution of Budget by Job Category
   </summary>
   <p align=''center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q1.PNG' />
