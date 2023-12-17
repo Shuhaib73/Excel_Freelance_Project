@@ -1,5 +1,9 @@
 ## Data-Driven Insights from PeoplePerHour[freelance marketplace] - using Advance Excel
 
+<p align='center'>
+    <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/PeoplePerhour-img.png' />
+</p>
+
 ##### - This project employs advance Excel techniques, including Pivot tables, Pivot charts, and Power Query, for comprehensive data analysis.
 ##### - The dataset, sourced from PeoplePerHowr, a freelance marketplace, encompasses diverse details about freelance projects - project descriptions, budgets, project category and more.
 
