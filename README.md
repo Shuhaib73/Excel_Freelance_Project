@@ -14,7 +14,7 @@
 
 <details>
   <summary>
-​✒️<strong>Click here to see :</strong> The Distibution of Budget by Job Category
+    <strong>​✒️<Click here to see :</strong> The Distibution of Budget by Job Category
   </summary>
   <p align=''center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q1.PNG' />
@@ -23,7 +23,7 @@
 
 <details>
   <summary>
-  <strong>Click here to see :</strong> The Distribution of Budget by Countries
+  <strong>​✒️<Click here to see :</strong> The Distribution of Budget by Countries
   </summary>
   <p align='center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q2.PNG' />
@@ -33,7 +33,7 @@
 
 <details>
   <summary>
-  <strong>Click here to see :</strong> The Distribution of Jobs by Experience level
+  <strong>​✒️<Click here to see :</strong> The Distribution of Jobs by Experience level
   </summary>
   <p align='center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q3.PNG' />
@@ -42,7 +42,7 @@
 
 <details>
   <summary>
-  <strong>Click here to see :</strong> The Distribution of Jobs by Experience level
+  <strong>​✒️<Click here to see :</strong> The Distribution of Jobs by Experience level
   </summary>
   <p align='center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q4.PNG' />
@@ -52,7 +52,7 @@
 
 <details>
   <summary>
-  <strong>Click here to see the snapshot of Dashboard </strong>  
+  <strong>​✒️<Click here to see the snapshot of Dashboard </strong>  
   </summary>
   <p align='center'>
     <img src='https://github.com/Shuhaib73/Excel_Freelance_Project/blob/main/Visuals/Q5.PNG' />
